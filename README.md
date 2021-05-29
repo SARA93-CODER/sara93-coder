@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋. I'm Sara Inbashi.
+Web developer (Front End)
 
 <!--
 **SARA93-CODER/sara93-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
